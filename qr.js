@@ -77,6 +77,7 @@ ____________________________________
  *𝘋𝘙𝘐𝘡𝘡𝘠 𝘙𝘜𝘛𝘖 𝘔𝘋*
 ___________________________________
 
+
 Don't Forget To Give Star To My Repo`
 					
 	 await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
